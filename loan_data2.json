@@ -1,0 +1,81 @@
+[
+{
+    "name": "Chase Slate",
+    "principal": 1460.31,
+    "apr": 29.99,
+    "minimum": 51,
+    "due_day": 24
+},{
+    "name": "JC Penny",
+    "principal": 2419.15,
+    "apr": 26.99,
+    "minimum": 99.24,
+    "due_day": 21
+},{
+    "name": "ExxonMobil",
+    "principal": 1409.89,
+    "apr": 25.24,
+    "minimum": 46.70,
+    "due_day": 18
+},{
+    "name": "Home Depot",
+    "principal": 1008.59,
+    "apr": 25.99,
+    "minimum": 37,
+    "due_day": 24
+},{
+    "name": "Sam's Club",
+    "principal": 6717.28,
+    "apr": 23.15,
+    "minimum": 199,
+    "due_day": 25
+},{
+    "name": "Chevron / Texaco",
+    "principal": 1772.80,
+    "apr": 27.24,
+    "minimum": 59,
+    "due_day": 10
+},{
+    "name": "Woman Within",
+    "principal": 911.25,
+    "apr": 27.24,
+    "minimum": 50,
+    "due_day": 16
+},{
+    "name": "Dillards",
+    "principal": 6280.16,
+    "apr": 22.24,
+    "minimum": 170,
+    "due_day": 26
+},{
+    "name": "Spruce / Viewtech Financial",
+    "principal": 4822.99,
+    "apr": 0,
+    "minimum": 202.96,
+    "due_day": 15
+},{
+    "name": "Ginny's",
+    "principal": 286.65,
+    "apr": 21,
+    "minimum": 30,
+    "due_day": 15
+},{
+    "name": "Walmart",
+    "principal": 3872.16,
+    "apr": 17.15,
+    "minimum": 94,
+    "due_day": 25
+},{
+    "name": "Military Star",
+    "principal": 533.59,
+    "apr": 10.49,
+    "minimum": 45,
+    "due_day": 7
+},{
+    "name": "Sears",
+    "principal": 3654.53,
+    "apr": 25.44,
+    "minimum": 122,
+    "due_day": 20
+}
+]
